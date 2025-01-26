@@ -5,8 +5,8 @@
 🌈 Contribution guidelines - This is a private account and you will need invitation to contribute to the private repositories.
 
 🌍 **Connect With Us**:
-- [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/company/0101digitall))
-- [X]([https://twitter.com/yourhandle](https://x.com/0101digitall))
+- [LinkedIn](https://www.linkedin.com/company/0101digitall)
+- [X](https://x.com/0101digitall)
 
 📊 **GitHub Stats**:
 - Total Repositories: ![Repos](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/repos?label=Repos)
