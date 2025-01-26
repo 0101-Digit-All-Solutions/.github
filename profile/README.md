@@ -9,5 +9,6 @@
 - [X]([https://twitter.com/yourhandle](https://x.com/0101digitall))
 
 📊 **GitHub Stats**:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0101-Digit-All-Solutions&show_icons=true&theme=radical)
+![Organization Repos](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/repos?label=Total%20Repos)
+![Organization Members](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/members?label=Members)
 
