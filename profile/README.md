@@ -11,4 +11,5 @@
 📊 **GitHub Stats**:
 - Total Repositories: ![Repos](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/repos?label=Total%20Repos)
 - Members: ![Members](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/members?label=Members)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0101-Digit-All-Solutions)](https://github.com/0101-Digit-All-Solutions/github-readme-stats)
 
