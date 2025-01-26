@@ -9,6 +9,6 @@
 - [X]([https://twitter.com/yourhandle](https://x.com/0101digitall))
 
 📊 **GitHub Stats**:
-![Organization Repos](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/repos?label=Total%20Repos)
-![Organization Members](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/members?label=Members)
+- Total Repositories: ![Repos](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/repos?label=Repos)
+- Members: ![Members](https://img.shields.io/github/orgs/0101-Digit-All-Solutions/members?label=Members)
 
