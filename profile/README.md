@@ -8,6 +8,4 @@
 - [LinkedIn](https://www.linkedin.com/company/0101digitall)
 - [X](https://x.com/0101digitall)
 
-📊 **GitHub Stats**:
-
 
